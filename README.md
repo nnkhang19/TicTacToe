@@ -13,3 +13,10 @@ In this level, the bot makes a move after playing a several simulation games to 
 ## Game interface
 The interface is built by tkinter library in python.
 
++Game Menu:
+
+  ![P1](https://user-images.githubusercontent.com/63390676/97454263-22bcef80-1969-11eb-9b0c-2431a1da45c7.PNG)
+  
++Game state:
+
+ ![P2](https://user-images.githubusercontent.com/63390676/97454334-39fbdd00-1969-11eb-9df8-ded1b8aaafe5.PNG)
